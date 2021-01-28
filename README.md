@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 <br>
 
-- 🔭 I’m Junior software engineer at [Congenial](https://congenial.com.br/)
+- 🔭 I’m software engineer at [Congenial](https://congenial.com.br/)
 
 - 🌱 I’m always learning **something new**
 
