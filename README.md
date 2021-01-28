@@ -22,6 +22,6 @@
 <p align="center">
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobrazileiro&layout=compact&theme=radical">
-<img src = "https://github-readme-stats.vercel.app/api?username=thiagobrazileiro&count_private=true&theme=radical&hide=stars&line_height=24">
+<img src = "https://github-readme-stats.vercel.app/api?username=thiagobrazileiro&count_private=true&theme=radical&hide=stars&line_height=24&show_icons=true">
 
 </p>
