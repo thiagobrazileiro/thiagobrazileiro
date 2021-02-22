@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 <br>
 
-- 🔭 I’m software engineer at [Congenial](https://congenial.com.br/)
+- 🔭 I’m data analyst at [Turim](https://www.turimsoft.com.br/site/)
 
 - 🌱 I’m always learning **something new**
 
