@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiago Brazileiro</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+<h3 align="center">A passionate fullstack developer and data analyst from Brazil</h3>
 <br>
 
 - 🔭 I’m data analyst at [Turim](https://www.turimsoft.com.br/site/)
