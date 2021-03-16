@@ -4,7 +4,7 @@
 
 - 🔭 I’m data analyst at [Turim](https://www.turimsoft.com.br/site/)
 
-- 🌱 I’m always learning **data analysis and robotic process automation**
+- 🌱 I’m always learning **data analysis**
 
 - 📫 How to reach me **brazileiro.thiago@gmail.com**
 
