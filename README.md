@@ -4,7 +4,7 @@
 
 - 🔭 I’m data analyst at [Turim](https://www.turimsoft.com.br/site/)
 
-- 🌱 I’m always learning **data analysis**
+- 🌱 I’m always learning **data analysis** and **data science**
 
 - 📫 How to reach me **brazileiro.thiago@gmail.com**
 
@@ -23,7 +23,7 @@
 
 <p align="center">
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobrazileiro&layout=compact&theme=radical">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobrazileiro&layout=compact&theme=radical&hide=jupyter notebook">
 <img src = "https://github-readme-stats.vercel.app/api?username=thiagobrazileiro&count_private=true&theme=radical&hide=stars&line_height=24&show_icons=true">
 
 </p>
