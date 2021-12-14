@@ -2,9 +2,9 @@
 <h3 align="center">A passionate fullstack developer and data analyst from Brazil</h3>
 <br>
 
-- 🔭 I’m data analyst at [Turim](https://www.turimsoft.com.br/site/)
+- 🔭 I’m RPA developer at [Bosch Brazil](https://www.bosch.com.br/)
 
-- 🌱 I’m always learning **data analysis** and **data science**
+- 🌱 I’m always learning **data analysis**, **data science** and **RPA**
 
 - 📫 How to reach me **brazileiro.thiago@gmail.com**
 
